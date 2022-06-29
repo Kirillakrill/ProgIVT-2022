@@ -10,7 +10,7 @@
 <h3><a href="https://github.com/Kirillakrill/sem5-lr6-KirillAkrill">6)PatternSingleton</a></h3>
 
 <h1>6ой Семестр</h1>
-<h3><a href="">1)SquareSequenceDigit</a></h3>
+<h3><a href="https://replit.com/@Kirillakrill/sem6-LR1-FominKirill#main.py">1)MasthStats</a></h3>
 <h3><a href="">2)OpenWeatherAPI</a></h3>
 <h3><a href="">3)ImportRootServer</a></h3>
 <h3><a href="">4)Fibonachi</a></h3>
