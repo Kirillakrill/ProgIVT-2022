@@ -4,4 +4,5 @@
 <h1>5ый Семестр</h1>
 <h2><a href="https://github.com/Kirillakrill/prog-5-lr-1">1)SquareSequenceDigit</a></h2>
 <h2><a href="https://github.com/python-basic/sem5-lr2-Kirillakrill">2)OpenWeatherAPI</a></h2>
+<h2><a href="https://github.com/python-basic/sem5-lr3-Kirillakrill">3)ImportRootServer</a></h2>
 <h1>6ой Семестр</h1>
