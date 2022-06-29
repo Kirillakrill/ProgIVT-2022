@@ -7,7 +7,7 @@
 <h3><a href="https://github.com/python-basic/sem5-lr3-Kirillakrill">3)ImportRootServer</a></h3>
 <h3><a href="https://github.com/Kirillakrill/sem5-lr4-Kirillakrill">4)Fibonachi</a></h3>
 <h3><a href="https://github.com/Kirillakrill/sem5-lr5-KirillAkrill">5)DataVisualization</a></h3>
-<h3><a href="">6)PatternSingleton</a></h3>
+<h3><a href="https://github.com/Kirillakrill/sem5-lr6-KirillAkrill">6)PatternSingleton</a></h3>
 <h3><a href="">7)DataVisualization</a></h3>
 <h3><a href="">8)DataVisualization</a></h3>
 <h1>6ой Семестр</h1>
